@@ -1,6 +1,6 @@
 ## Regression_RicianNoiseLevel_3DMRI_DistributionFirstSignificantDigit
 
-This repository contains the source code of the paper Regression of the Rician Noise Level in 3D Magnetic Resonance Images from the Distribution of the First Significant Digit (URL doi paper XXXXXX).
+This repository contains the source code of the paper Regression of the Rician Noise Level in 3D Magnetic Resonance Images from the Distribution of the First Significant Digit (URL doi paper https://doi.org/10.3390/axioms12121117).
 
 This code executes the method mentioned in the paper for a set of input images. The contents of this code are provided without any warranty. They are intended for evaluation purposes only.
 
@@ -75,4 +75,4 @@ To do an stimation of the SNR:
 
 
 Citation
-Please, cite this work as: XXXXXX
+Please, cite this work as: https://doi.org/10.3390/axioms12121117
